@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "hello world"
+date:   2016-09-07 00:45:43 +0900
+categories: jekyll update
+---
+
 DOCKER install
 
 [Homebrew](http://brew.sh/)
